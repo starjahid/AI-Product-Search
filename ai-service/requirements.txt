@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+requests
+
+google-genai
+langchain
+langchain-google-genai
+
+numpy
+scikit-learn
+textblob
+nltk
+
+# optional but useful for stability
+tenacity
